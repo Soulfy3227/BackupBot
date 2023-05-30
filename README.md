@@ -24,15 +24,8 @@ This command allows you to get information about the backup you created
 
 This command allows you to load a backup in the current server (restricted to administrators)
 
-![load](./examples/load.png)  
 
-## Install
 
-* Clone repository
-
-```sh
-git clone https://github.com/Androz2091/backups-bot
-```
 
 * Fill configuration (config.json)
 
